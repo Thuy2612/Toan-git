@@ -1,2 +1,2 @@
 Git
-conflict in remote
+conflict in GitHub
